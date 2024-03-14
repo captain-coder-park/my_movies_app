@@ -1,0 +1,21 @@
+/*!
+* Laravel v8.x
+* https://laravel.com
+* Copyright 2021 Taylor Otwell
+* Licensed under the MIT license
+*/
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+/* Body */
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+/* Links */
+a {
+    color: #636b6f;
+    text-decoration: none;
+}
+
+/* Other styles */
+/* Add your custom styles below */
